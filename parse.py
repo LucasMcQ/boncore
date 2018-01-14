@@ -1,4 +1,4 @@
-newfile = open("parsedData.txt", "w")
+newfile = open("GPGGA.txt", "w")
 
 key = "GPGGA"
 
